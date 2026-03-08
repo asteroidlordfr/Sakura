@@ -1,4 +1,5 @@
 ![release](https://img.shields.io/github/v/release/asteroidlordfr/Sakura) ![downloads](https://img.shields.io/github/downloads/asteroidlordfr/Sakura/total) ![stars](https://img.shields.io/github/stars/asteroidlordfr/Sakura)
+
 [![License](https://img.shields.io/github/license/asteroidlordfr/Sakura)](LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/asteroidlordfr/Sakura/pulls)
 
 # 🌸 Sakura

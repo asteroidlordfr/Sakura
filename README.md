@@ -21,18 +21,6 @@ If you contribute via a pull request, please follow these standards:
 As of now, we only support one version and mod loader as this is made by a solo dev.
 *Minecraft: Bedrock Edition* is **NOT** supported at this time, however we plan on it for the future. 👀
 
-## ✨ Features
-
-| Category | Modules
-|----------|---------|-------------|
-| ⚔️ Combat | KillAura, Velocity, Criticals, AutoClicker
-| 🏃 Movement | Flight, Speed, Sprint, NoFall, Step
-| 👁️ Visual | ESP, FullBright, Nametags, Tracers, Chams
-| 🛠️ Player | AutoTool, ChestStealer, Scaffold, FastEat
-| 🔧 QOL | AntiAFK, AutoRespawn
-And even more to come!
----
-
 ## 💖 Credits
 - **AsteroidLord** - Lead Developer
 - **Contributors** - Check them out [here](https://github.com/asteroidlordfr/Sakura/graphs/contributors)

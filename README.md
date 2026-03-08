@@ -6,7 +6,7 @@ Sakura is an open-sourced Minecraft hack, a project made by the community - for 
 We allow pull requests, so we'd be glad to look at your ideas!
 We also review the ``Issues`` tab, find an issue or want to suggest something then that's your place!
 
---
+---
 
 | Version | Loader | Supported |
 |:----------|:------------------------|:---------------|

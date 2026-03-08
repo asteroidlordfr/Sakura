@@ -41,6 +41,8 @@ As of now, we only support one version and mod loader as this is made by a solo 
 4. **Launch** Minecraft with the Fabric profile
 5. **Press** `RIGHT_SHIFT` to open the GUI
 
+---
+
 ## 💖 Credits
 - **AsteroidLord** - Lead Developer
 - **Contributors** - Check them out [here](https://github.com/asteroidlordfr/Sakura/graphs/contributors)
